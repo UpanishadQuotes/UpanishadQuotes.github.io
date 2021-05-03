@@ -18,8 +18,8 @@ body {
 
 .pic {
   position: fixed;
-  top: -10px;
-  left: 10px;
+  top: 0px;
+  left: 15px;
 }.otherlang {
   position: fixed;
   top: 5px;
