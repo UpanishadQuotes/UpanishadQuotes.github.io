@@ -27,7 +27,7 @@ body {
 
 
 .shlokanum {
-  padding-top: 14px;
+  padding-top: 8px;
   text-align: center;
   font-size: 25px;
   line-height: .2em;
@@ -38,6 +38,8 @@ body {
   z-index:-1;
 }
 .shloka {
+  margin-top: 0.72em;
+  padding-top: 0px;
   font-size: 26px;
   display:block;
   position:fixed;
@@ -45,11 +47,10 @@ body {
   text-shadow: 1px 1px lightgray;
   transform: translate(-50%);
   top:43px;
-  padding-top: 0px;
   z-index:-1;
 }
 .shlokabreak {
-  top:143px;
+  top:139px;
   font-size: 17px;
   position:fixed;
   width: 100%;
