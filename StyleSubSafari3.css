@@ -1,0 +1,106 @@
+
+/* ################################################################ */
+/* This is the css style file to be used for individual image pages */
+/* ################################################################ */
+
+
+
+/* Style html body */
+
+body { 
+  margin: 0 auto; 
+  margin-top: 190px;
+  /*background-color: white; /*#FFF8E8*/*/
+  width:100%;
+}
+
+
+.shlokanum {
+  padding-top: 14px;
+  text-align: center;
+  font-size: 25px;
+  line-height: .2em;
+  position:fixed;
+  left:50%;
+  transform: translate(-50%);
+  top:0px;
+  z-index:-1;
+}
+.shloka {
+  font-size: 26px;
+  display:block;
+  position:fixed;
+  left:50%;
+  transform: translate(-50%);
+  top:43px;
+  padding-top: 0px;
+  z-index:-1;
+}
+.shlokabreak {
+  top:142px;
+  font-size: 18px;
+  position:fixed;
+  width: 100%;
+  text-align: center;
+  padding-top: 0px;
+  z-index:-1;
+}
+.fixed_container {
+  position: fixed;
+  overflow: auto;
+  top:191px;
+  width: 100%;
+  height: 5in;
+  z-index:10; 
+}
+
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3,calc(33.33%));
+  overflow: hidden;
+  background-color: white;
+  padding: 0px;
+}
+.grid-item {
+  background-color: white;
+  border: .5px solid #808080;
+  border-top: 0px;
+  padding: 0px 20px;
+  font-size: 30px;
+  text-align: justify;
+  
+}
+.grid-item h6 {
+  margin-top: 0.67em;
+  margin-bottom: 0.67em; 
+}
+
+
+
+
+.summary {
+  font-size: 17px;
+  color: black;
+  z-index:600;
+  position: relative;
+}
+.explain{
+  font-size: 17px;
+  color: #616263;
+  z-index:600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
