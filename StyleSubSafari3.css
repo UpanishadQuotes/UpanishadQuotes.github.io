@@ -42,14 +42,15 @@ body {
   display:block;
   position:fixed;
   left:50%;
+  text-shadow: 1px 1px lightgray;
   transform: translate(-50%);
   top:43px;
   padding-top: 0px;
   z-index:-1;
 }
 .shlokabreak {
-  top:142px;
-  font-size: 18px;
+  top:143px;
+  font-size: 17px;
   position:fixed;
   width: 100%;
   text-align: center;
