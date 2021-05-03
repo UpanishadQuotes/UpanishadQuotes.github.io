@@ -17,6 +17,7 @@ body {
 
 .pic {
   position: fixed;
+  margin-top: 0.72em;
   top: 0px;
   left: 15px;
 }.otherlang {
