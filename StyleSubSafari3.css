@@ -15,11 +15,16 @@ body {
 }
 
 
-.otherlang {
+.pic {
+  position: fixed;
+  top: -10px;
+  left: 10px;
+}.otherlang {
   position: fixed;
   top: 5px;
   right: 15px;
 }
+
 
 .shlokanum {
   padding-top: 14px;
