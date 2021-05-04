@@ -100,13 +100,13 @@ body {
 
 
 .summary {
-  font-size: 17px;
+  font-size: 35px;
   color: black;
   z-index:600;
   position: relative;
 }
 .explain{
-  font-size: 17px;
+  font-size: 35px;
   color: #616263;
   z-index:600;
 }
