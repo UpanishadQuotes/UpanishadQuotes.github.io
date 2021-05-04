@@ -32,7 +32,7 @@ function myFunction()
 { 
   if(window.mobileAndTabletCheck() == true) 
   {
-    addCss("../StyleSubMobileTablet4.css");
+    addCss("../StyleSubMobileTablet.css");
   }
   else if((navigator.userAgent.indexOf("Opera") || navigator.userAgent.indexOf('OPR')) != -1 ) 
   {
@@ -56,7 +56,7 @@ function myFunction()
   }
   else 
   {
-    addCss("../StyleSubMobileTablet4.css");
+    addCss("../StyleSubMobileTablet.css");
   }
 }
 
