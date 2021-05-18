@@ -1,0 +1,40 @@
+
+/* ################################################################ */
+/* This is the css style file to be used for individual image pages */
+/* ################################################################ */
+
+
+
+/* Style html body */
+
+body { 
+  margin-top: 60px;
+  margin-left: 230px;
+  margin-right: 230px;
+  background-color: #fae39b; 
+}
+
+
+.button {
+  font-size: 15px;
+}
+
+.chapter {
+  padding-top: 8px;
+  font-size: 20px;
+  line-height: 1.8em;
+  text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
